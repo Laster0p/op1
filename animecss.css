@@ -1,0 +1,32 @@
+
+body{
+
+
+}
+
+.hh1{
+text-align:center;
+color:red;
+
+}
+.nav{
+text-decoration:none;
+margin:20px;
+color:black;
+}
+
+iframe{
+border:solid 2px black;
+height:200px;
+width:350px;
+
+}
+
+footer{
+height:30px;
+color:white;
+border:solid 2px black;
+background-color:black;
+margin-top:20px;
+border-radius:15px;
+}
